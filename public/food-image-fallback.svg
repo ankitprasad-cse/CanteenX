@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#E8F4EE"/>
+  <g fill="none" stroke="#176B4D" stroke-width="18" stroke-linecap="round">
+    <circle cx="600" cy="420" r="170"/>
+    <path d="M470 610h260"/>
+    <path d="M520 650h160"/>
+  </g>
+  <text x="600" y="760" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="42"
+        fill="#66736D">Food image unavailable</text>
+</svg>
